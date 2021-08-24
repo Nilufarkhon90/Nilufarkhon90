@@ -1,0 +1,8 @@
+print ('hello world')
+first_name = input("type your first name ")
+surname= input ("Nosirova")
+whatever_you_want = "Whatever"
+good_teacher_can="Good teacher can"
+inspire_hope="inspire hope"
+print (f"{good_teacher_can} {inspire_hope} and instill a love of learning") #this is love of learning
+Good teacher can inspire hope and instill a love of learning
